@@ -23,10 +23,10 @@ global.APIs = {
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
 global.ownername = '𝙷𝚊𝚜𝚑𝚒𝚖';
-global.owner = ['917034794304'];
-global.premium = ['919747809055'];
+global.owner = ['923192106398'];
+global.premium = ['1(786)791-0846'];
 global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
-global.author = '𝙷𝚊𝚜𝚑𝚒𝚖';
+global.author = 'Maaz';
 global.sessionName = 'session';
 global.prefa = ['', '!', '.'];
 global.sp = '✪';
